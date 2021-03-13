@@ -3,6 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
+
 Repository to help figure out how Git works
 
 ## Purpose
@@ -15,4 +16,9 @@ Just do things
 
 ## Deployment
 
+Push it real good!
+
 ## Some more stuff
+
+Ooooh push it!
+
