@@ -22,3 +22,6 @@ Push it real good!
 
 Ooooh push it!
 
+## Copyright Notice
+Copyright 2021 Git Training
+
